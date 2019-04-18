@@ -12,3 +12,5 @@ Otra cosa mariposa
 
 //5º Miguel Rios
 Un cantante de Granada muy querido.
+
+//6º He explicado como saltarse el ST.AR.
