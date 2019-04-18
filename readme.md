@@ -4,7 +4,7 @@ Esto es lo primero que estoy aprendiendo de git
 //Segundo comentario
 Editando de nuevo el archivo
 
-//3º comentario
+//3º comentarioL
 Estamos hoy a jueves santo de c4pirot3
 
 //4º
